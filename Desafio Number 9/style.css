@@ -1,0 +1,72 @@
+@charset "utf-8";
+
+
+header {
+    background-image: linear-gradient(red,green,yellow);
+    padding: 20px;
+    border-radius: 20px;
+}
+
+main {
+    text-align: center;
+    
+    font-family: Arial, Helvetica, sans-serif;
+
+ 
+    margin: 10px;
+    padding: 10px;
+
+}
+
+nav {
+   background-color: grey;
+   padding: 3x;
+}
+
+nav > a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    margin-right: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav > a:hover {
+    text-decoration: underline;
+}
+
+section {
+    background-color: chartreuse;
+    margin: 10px;
+    padding: 10px;
+
+
+}
+
+
+
+div {
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    background-color: white;
+    text-align: t;
+   
+    
+    
+    
+}
+
+footer {
+    background-color: green;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: underline;
+    color: azure;
+}
+
+.assuntos {
+    text-align: center;
+    color: red;
+}
